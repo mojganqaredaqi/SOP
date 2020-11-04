@@ -1,5 +1,5 @@
 ### about Me 
-I am mojgan qaredaqi . I am an english teacher(IELTS) my students call me maggie that is may nickname . Also a lifeguard and international swimming coach.I have been swimming since I was 13 years old and played volleyball professionally about 5 years.I study computer engineering at Payame Noor University.
+I am mojgan qaredaqi . I am an english teacher(IELTS) my students call me maggie that is my nickname . Also a lifeguard and international swimming coach.I have been swimming since I was 13 years old and played volleyball professionally about 5 years.I study computer engineering at Payame Noor University.
 ### personal information
 First name : mojgan
 Last name : qaredaqi
