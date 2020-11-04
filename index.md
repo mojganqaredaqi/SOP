@@ -1,37 +1,50 @@
-## Welcome to GitHub Pages
+### about Me 
+I am mojgan qaredaqi . I am an english teacher(IELTS) my students call me maggie that is may nickname . Also a lifeguard and international swimming coach.I have been swimming since I was 13 years old and played volleyball professionally about 5 years.I study computer engineering at Payame Noor University.
+### personal information
+First name : mojgan
+Last name : qaredaqi
+Birth Day : Azar 1372
+### Language
+Persian
+English(Intermediate)
+### Skills
+>>English teacher
+>>paly volleyball
+>>swimming coach
+>>Lifeguard
+>>photoshop by Camtasia stadio software
+### Work Experience
+Swimming coach
+Lifeguard
+English teacher
+### Certifications
+IELTS
+Internationall certificate in swimming coach
+Lifeguard
+### Contact Me
+>>Gmail: mojganqaredaqi@gmail.com
+>>Yahoo: mojganqaredaqi@yahoo.com
+### درباره من
+من مژگان قره داغی هستم.مدرس زبان انگلیسی هستم(ایتلس)شاگردانم مگی صدایم می زنند اسم مستعار من هست.هم چنین نجات غریق و مربی بین المللی شنا هستم.از زمانی که 13 سالم بوده شنا کرده ام و5 سال حرفه ای والیبال بازی کردم.دانشجوی مهندسی کامپیوتر در دانشگاه پیام نور میباشم.
+### اطلاعات شخصی
+نام : مژگان
+نام خانوادگی : قره داغی
+تولد :اذر 1372
+### زبان
+فارسی
+انگلیسی(متوسط(
+### مهارت ها
+مدرس زبان
+والیبال
+مربی گری شنا
+نجات غریق
+فوتوشاپ با نرم افزار کمتازیا
+### سوابق کاری
+مربی شنا
+نجات غریق
+مدرس زبان
+### گواهی مهارت
+ایتلس
+مدرک مربی گری بین المللی شنا
+نجات غریق
 
-You can use the [editor on GitHub](https://github.com/mojganqaredaqi/mojgan.qaredagi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mojganqaredaqi/mojgan.qaredagi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
