@@ -9,7 +9,7 @@ Persian
 English(Intermediate)
 ### Skills
 >>English teacher
->>paly volleyball
+>>volleyball player
 >>swimming coach
 >>Lifeguard
 >>photoshop by Camtasia stadio software
